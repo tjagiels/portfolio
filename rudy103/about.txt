@@ -1,5 +1,9 @@
 Minisumo robot (2011, 2 persons team). Build for recruitment process for KoNaR. Won several robot competitions in 2012 and 2013. 
 
+Video:
+https://youtu.be/b-8ArvPdoj4
+https://youtu.be/AOqdDr5IveU
+
 Mechanics:
 Design based on a self-supporting brass plate simultaneously being a combat weapon. Concentration of mass as low above the ground as possible together with sharp blade  allowed for effective knocking out an enemy robot. All custom parts were machined with CNC router <LINK> 
 

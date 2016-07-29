@@ -1,1 +1,1 @@
-Non-conventional wall clock (2015). Implements some artists' vision of time presenting. Mechanics as well as electronics was quite challenging due to provide maximum esthetics and minimize power consumption. Photos show a real device.
+Non-conventional wall clock (2015). Implements some artists' vision of time presenting. Mechanics as well as electronics was quite challenging due to provide maximum esthetics and minimize power consumption. Photos presents a real device.
