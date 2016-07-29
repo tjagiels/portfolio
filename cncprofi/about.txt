@@ -1,0 +1,8 @@
+CNCProfi general purpose industrial controller (2012-2014). Designer and coded from a scratch. 
+
+Implemented in controlling: 
+-band-saw
+-machine rotary axle
+-lathe
+-sawing machine
+-hydraulic press

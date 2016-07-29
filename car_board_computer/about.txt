@@ -1,0 +1,1 @@
+Car board computer (2011). Uses speed and injection signals to calculate current fuel consumption. Result is presented on Nokia 3310 LCD, which is embedded into clusters.

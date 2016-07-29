@@ -1,0 +1,15 @@
+One dimensional flywheel balancing cube (2016). Purpose: for fun:) Inspired with Cubli https://www.youtube.com/watch?v=n_6p-1J551Y
+
+Hardware:
+Adapted SToRM32-BGC camera gimbal controller. Gimbal motor drivers ware used as gate drivers for high amp driver. Controller board provided all necessary peripheral IOs connected to sockets. 
+
+High amp driver was designed and created with home methods. Consist of 3 N-MOS / P-MOS half-bridges and hall effect current measurement circuit.
+BLDC motor is a cheap RC plane motor.
+Orientation sensor is a 3D gyroscope and accelerometer MPU6050.
+
+Software:
+   STM32: C++/C with GCC. MCU has 3 general task: Field oriented control of BLDC motor, communication and balancing algorithm. 
+   PC: Qt 4.8. Is an interface providing debug information and sending controller configuration. 
+   
+   
+   

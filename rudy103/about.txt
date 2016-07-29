@@ -1,0 +1,15 @@
+Minisumo robot (2011, 2 persons team). Build for recruitment process for KoNaR. Won several robot competitions in 2012 and 2013. 
+
+Mechanics:
+Design based on a self-supporting brass plate simultaneously being a combat weapon. Concentration of mass as low above the ground as possible together with sharp blade  allowed for effective knocking out an enemy robot. All custom parts were machined with CNC router <LINK> 
+
+Hardware:
+Consist of 4 main blocks: power stage, logic, sensors and motor diver. 
+
+Power stage was nothing more than two linear voltage regulators providing power for logic and sensors separately. Logic was a ATmega324 MCU. Robot was equipped with 6 40cm IR proximity sensors for robot detection and 4 3mm reflectance sensors for ring border detection. 
+
+PCB was designed using Eagle EDA.
+
+Software:
+Coded in C using AVRStudio. 
+

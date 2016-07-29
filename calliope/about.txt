@@ -1,0 +1,14 @@
+General purpose parallel kinematics handling robot (2013, 3 persons team). Adapted for drawing to take part in SketchBot Painting category during RoboGames Competition in San Francisco. 
+
+Mechanics:
+Based on 2 aluminium plates supported with structural profiles creating a cage within which operates an effector. Each profile has a linear guide bolted to it. Motion of guide blocks, through ball joints, aluminium rod and another ball joint, is transfer to an effector. Guide block are driven with timing belt, driven with stepper motor. 
+
+All components were designed in Autodesk Inventor and ordered to perform.
+
+Electronics (team mate's part):
+Controlled based on STM32F4 Discovery board. Coded in C.
+
+
+Matlab(team mate's part):
+Implements image processing and inverse kinematics calculation.
+
