@@ -1,5 +1,10 @@
 One dimensional flywheel balancing cube (2016). Purpose: for fun:) Inspired with Cubli https://www.youtube.com/watch?v=n_6p-1J551Y
 
+Video:
+https://youtu.be/Khjhep73fQU
+https://youtu.be/U1Hw3HjGYGA
+https://youtu.be/FGd0gnViqYI 
+
 Hardware:
 Adapted SToRM32-BGC camera gimbal controller. Gimbal motor drivers ware used as gate drivers for high amp driver. Controller board provided all necessary peripheral IOs connected to sockets. 
 
